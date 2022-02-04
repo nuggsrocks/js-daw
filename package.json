@@ -4,6 +4,7 @@
   "description": "javascript digital audio workstation",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "jest"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nuggsrocks/js-daw/issues"
   },
-  "homepage": "https://github.com/nuggsrocks/js-daw#readme"
+  "homepage": "https://github.com/nuggsrocks/js-daw#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
