@@ -1,0 +1,22 @@
+{
+  "name": "js-daw",
+  "version": "1.0.0",
+  "description": "javascript digital audio workstation",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuggsrocks/js-daw.git"
+  },
+  "author": {
+    "name": "Matthew Fisher",
+    "email": "mattfishcodes@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuggsrocks/js-daw/issues"
+  },
+  "homepage": "https://github.com/nuggsrocks/js-daw#readme"
+}
