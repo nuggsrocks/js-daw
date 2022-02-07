@@ -1,5 +1,7 @@
-const f = () => {
-  console.log('emkfnr')
-}
+import React from 'react'
+import ReactDOM from 'react-dom'
+import {App} from './app.js'
 
-f()
+const root = document.querySelector('#root')
+
+ReactDOM.render(<App/>, root)
